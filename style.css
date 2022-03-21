@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to right, #00ff00, #ff0000);
+    text-align: center;
+}
+h1 {
+    font-size: 100px;
+}
+h3 {
+    font-size: 30px;
+}
+@media (max-width:767px) {
+    h1 {font-size: 50px;}
+    h3 {font-size: 15px;}
+}
